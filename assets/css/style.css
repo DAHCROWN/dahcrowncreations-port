@@ -1434,7 +1434,14 @@ label {
 }
 
 .cs-partner_logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 20px;
+}
+.cs-partner_logo img{
+  max-width: 160px;
+  height: auto;
 }
 
 .cs-moving_text_wrap {
