@@ -5180,6 +5180,10 @@ ul:not(.cs-mega_wrapper)
   position: relative;
   z-index: 3;
 }
+.cs-hero_text{
+  background-color: #232323cb;
+  padding: 5px;
+}
 
 .cs-hero.cs-style1 .cs-slider.cs-style1 {
   position: absolute;
@@ -5433,6 +5437,11 @@ ul:not(.cs-mega_wrapper)
       -ms-flex-align: center;
           align-items: center;
   padding: 80px 115px;
+}
+
+.cs-swiper_parallax_bg{
+  background-blend-mode: darken;
+  background-color: #00000049;
 }
 
 .cs-hero.cs-style4 .cs-swiper_parallax_bg,
