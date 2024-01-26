@@ -3914,7 +3914,7 @@ label {
 }
 
 .cs-site_branding img {
-  max-height: 45px;
+  max-height: 55px;
 }
 
 @media screen and (min-width: 1200px) {
@@ -4386,7 +4386,9 @@ ul:not(.cs-mega_wrapper)
 .cs-text_widget p {
   margin: 0;
 }
-
+.cs-text_widget img{
+  max-width: 200px;
+}
 .cs-text_widget img + p {
   margin-top: 30px;
 }
