@@ -5184,7 +5184,9 @@ ul:not(.cs-mega_wrapper)
   background-color: #232323cb;
   padding: 5px;
 }
-
+.cs-hero_home {
+  background-color: transparent !important;
+}
 .cs-hero.cs-style1 .cs-slider.cs-style1 {
   position: absolute;
   height: 100%;
